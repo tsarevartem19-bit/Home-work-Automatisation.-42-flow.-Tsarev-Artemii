@@ -7,9 +7,7 @@ public static void main(String[] args){
 }
 public static void printMassive(int len,int initialValue){
     int [] massive = new int [len];
-    for (int i = 0; i < massive.length; i++) {
-        massive[i] = initialValue;
-    }
+    Arrays.fill(massive, initialValue);
     System.out.println(Arrays.toString(massive));
 }
 }
