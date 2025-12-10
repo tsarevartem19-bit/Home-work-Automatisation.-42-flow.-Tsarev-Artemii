@@ -1,6 +1,6 @@
 public class TaskNumberNine {
 public static void main(String[] args){
-    System.out.println(yearIsLeapOrNot(2025));
+    System.out.println(yearIsLeapOrNot(202));
 }
 public static boolean yearIsLeapOrNot(int a){
     if (a % 400 == 0){
