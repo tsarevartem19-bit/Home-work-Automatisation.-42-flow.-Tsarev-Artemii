@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="989d9543-3a35-43f0-b712-defdb8f994a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lesson2Homework for Lecture 2.3/Homework/Lesson 2.3/Lesson 2 Homework/org/example/MainPark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson2Homework for Lecture 2.3/Homework/Lesson 2.3/Lesson 2 Homework/org/example/MainProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson2Homework for Lecture 2.3/Homework/Lesson 2.3/Lesson 2 Homework/org/example/Park.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson2Homework for Lecture 2.3/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="989d9543-3a35-43f0-b712-defdb8f994a9" name="Changes" comment="f" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Lesson2Homework for Lecture 2.3" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tsarevartem19-bit/Home-work-Automatisation.-42-flow.-Tsarev-Artemii.git",
+    "accountId": "6673c4d8-ae3e-4b10-8134-f7071ac653e8"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -41,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Homework-for-Lecture-2.3",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Artem/IdeaProjects/Lesson2Homework for Lecture 2.3/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
@@ -74,11 +75,32 @@
       <option name="presentableId" value="Default" />
       <updated>1765910477780</updated>
       <workItem from="1765910482017" duration="619000" />
-      <workItem from="1765985470204" duration="8699000" />
+      <workItem from="1765985470204" duration="9017000" />
     </task>
+    <task id="LOCAL-00001" summary="f">
+      <option name="closed" value="true" />
+      <created>1766007914998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766007914998</updated>
+    </task>
+    <task id="LOCAL-00002" summary="f">
+      <option name="closed" value="true" />
+      <created>1766007954260</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766007954260</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="f" />
+    <option name="LAST_COMMIT_MESSAGE" value="f" />
   </component>
 </project>
