@@ -18,7 +18,7 @@ public class Product {
       this.statusBooking = statusBooking;
    }
    public void printInfo(){
-      System.out.println("Название: " + name);
+      System.out.println("Название : " + name);
       System.out.println("Дата производства: " + date);
       System.out.println("Производитель: " + manufacturer);
       System.out.println("Страна происхождения: " + country);
