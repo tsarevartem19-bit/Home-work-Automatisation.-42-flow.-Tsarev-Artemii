@@ -4,7 +4,7 @@ public class MainPhoneBook {
         public static void main(String[] args) {
             PhoneBook phoneBook = new PhoneBook();
 
-            phoneBook.add("Иванов", "89992583615");
+            phoneBook.add("Иванов", "89992183615");
             phoneBook.add("Иванов", "89111248665");
             phoneBook.add("Петров", "+79991571425");
             phoneBook.add("Царев", "8800553535");
