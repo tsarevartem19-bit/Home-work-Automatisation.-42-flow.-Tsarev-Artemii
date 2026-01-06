@@ -19,6 +19,6 @@ public class TriangleTest {
     @Test(expectedExceptions = IllegalArgumentException.class)
    public void shouldThrowWhenHeightIsZero() {
         Triangle triangle = new Triangle();
-        triangle.squareTriangle(5,0);
+        triangle.squareTriangle(6,0);
     }
 }
