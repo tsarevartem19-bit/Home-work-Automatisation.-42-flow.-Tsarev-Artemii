@@ -22,6 +22,7 @@ public class PutRequestTest extends BaseTest {
                 .put("/put")
                 .then()
                 .statusCode(200)
+                .header("Content-Type", containsString("application/json"))
                 .body("json.name", equalTo("Artem"))
                 .body("json.job", equalTo("QA"));
     }

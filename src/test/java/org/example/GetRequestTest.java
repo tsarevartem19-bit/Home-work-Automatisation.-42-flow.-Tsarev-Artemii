@@ -14,6 +14,7 @@ public class GetRequestTest extends BaseTest {
                 .get("/get")
                 .then()
                 .statusCode(200)
+                .header("Content-Type", containsString("application/json"))
                 .body("args.foo1", equalTo("bar1"))
                 .body("args.foo2", equalTo("bar2"));
     }

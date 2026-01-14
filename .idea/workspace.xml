@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ca3aaa4-6ab3-4f3f-b1db-deb58d1ade5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lesson_7_Homework-for-Lecture-2.8/src/test/java/org/example/PostRequestTest.java" afterDir="false" />
+    <list default="true" id="1ca3aaa4-6ab3-4f3f-b1db-deb58d1ade5f" name="Changes" comment="Сделал Домашнее задание к лекции 2.8">
+      <change beforePath="$PROJECT_DIR$/../Lesson_7_Homework-for-Lecture-2.8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_7_Homework-for-Lecture-2.8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_7_Homework-for-Lecture-2.8/src/test/java/org/example/GetRequestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_7_Homework-for-Lecture-2.8/src/test/java/org/example/GetRequestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_7_Homework-for-Lecture-2.8/src/test/java/org/example/PostRequestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_7_Homework-for-Lecture-2.8/src/test/java/org/example/PostRequestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_7_Homework-for-Lecture-2.8/src/test/java/org/example/PutRequestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson_7_Homework-for-Lecture-2.8/src/test/java/org/example/PutRequestTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,41 +25,41 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Lesson_7_Homework-for-Lecture-2.8" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tsarevartem19-bit"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tsarevartem19-bit/Home-work-Automatisation.-42-flow.-Tsarev-Artemii.git&quot;,
+    &quot;accountId&quot;: &quot;6673c4d8-ae3e-4b10-8134-f7071ac653e8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="38DBbtlf9xiFEDpV9nL2oyiWUKt" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.GetRequestTest.executor": "Run",
-    "JUnit.PatchRequestTest.executor": "Run",
-    "JUnit.PostRequestTest.executor": "Run",
-    "JUnit.PutRequestTest.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Artem/IdeaProjects/Lesson_7_Homework-for-Lecture-2.8/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.DeleteRequestTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GetRequestTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PatchRequestTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PostRequestTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PutRequestTest.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Artem/IdeaProjects/Lesson_7_Homework-for-Lecture-2.8/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Lesson_8_Homework-for-Lecture-2.8." />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Lesson_8_Homework-for-Lecture-2.8." />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
-  </component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,7 +75,20 @@
       <option name="presentableId" value="Default" />
       <updated>1768324338728</updated>
     </task>
+    <task id="LOCAL-00001" summary="Сделал Домашнее задание к лекции 2.8">
+      <option name="closed" value="true" />
+      <created>1768335812067</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768335812067</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Сделал Домашнее задание к лекции 2.8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал Домашнее задание к лекции 2.8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
